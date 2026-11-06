@@ -9,8 +9,8 @@ based on weather conditions and time-related features.
 
 | Vantala Venu Prathyush| Execution Lead | venuprathyush |
 | Avishi Sood | Documentation Lead | 2026eeb1330 |
-| Mirgane Aditya Tanaji | Video Lead |  |
-| Pooja | PPT Lead |  |
+| Mirgane Aditya Tanaji | Video Lead | Adi-09-dev  |
+| Pooja | PPT Lead | 2026MCB1554 |
 
 ## 3. Objectives
 - Analyse bike rental demand.
