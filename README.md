@@ -6,12 +6,12 @@ based on weather conditions and time-related features.
 
 ## 👥 Team Members
 
-| Name | Role | GitHub Username |
-| :--- | :--- | :--- |
-| Vantala Venu Prathyush | Execution Lead | [@venuprathyush](https://github.com/venuprathyush) |
-| Avishi Sood | Documentation Lead | [@2026eeb1330](https://github.com/2026eeb1330) |
-| Mirgane Aditya Tanaji | Video Lead | [@Adi-09-dev](https://github.com/Adi-09-dev) |
-| Pooja | PPT Lead | [@2026MCB1554](https://github.com/2026MCB1554) |
+| Name | Role | Entry No. | GitHub Username | 
+| :--- | :--- | :--- | :--- |
+| Vantala Venu Prathyush | Execution Lead | 2026AIB1090 | [@venuprathyush](https://github.com/venuprathyush) |
+| Avishi Sood | Documentation Lead | 2026EEB1330 | [@2026eeb1330](https://github.com/2026eeb1330) |
+| Mirgane Aditya Tanaji | Video Lead | 2026ESB1481 | [@Adi-09-dev](https://github.com/Adi-09-dev) |
+| Pooja | PPT Lead | 2026MCB1554 | [@2026MCB1554](https://github.com/2026MCB1554) |
 
 ## 🚀 Objectives
 - Analyse bike rental demand.
