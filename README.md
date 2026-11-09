@@ -18,8 +18,30 @@ This project aims to predict the number of bikes rented based on weather conditi
 - Study the effect of weather and time.
 - Develop a machine learning model to predict demand.
 
-## 🪜 Project Structure
-(To be updated as files are added.)
+## 🤖 Machine Learning Algorithm
+This project uses **Linear Regression Model**. 
+
+## 🪜 Project Workflow
+
+The complete workflow of the Bike Rental Demand Prediction system is shown below:
+```text
+Bike Sharing Dataset (train.csv / test.csv)
+       |
+       ↓
+Data Loading & Cleaning
+       |
+       ↓
+Exploratory Data Analysis 
+       |
+       ↓
+Model Training (Linear Regression)
+       |
+       ↓
+Model Evaluation & Visualizations
+       |
+       ↓
+Bike Rental Demand Prediction 
+```
 
 ## 🛠️ Technologies Used
 ### Programming Language
@@ -50,4 +72,15 @@ This project aims to predict the number of bikes rented based on weather conditi
 (Links to be added.)
 
 ## 10. AI Usage Disclosure
-(To be completed according to the project requirements.)
+AI tools were used during the project for:
+- Documentation Improvement and README Understanding
+- Assistance in Code and Presentation
+- Debugging Support
+  
+Tools Used:
+
+- ChatGPT
+- Claude
+- Gemini
+  
+The model training, code verification & implementation and evaluation was done by the team. 
