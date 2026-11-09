@@ -2,7 +2,7 @@
 
 ## 🎯 Project Overview
 
-This project aims to predict the number of bikes rented based on weather conditions and time-related factors such as temperature, humidity, season and time of day etc. using the Bike Sharing Demand dataset. It uses data preprocessing, exploratory data analysis, and Linear Regression to build a predictive model. The model's performance is evaluated using standard regression metrics to assess its accuracy and ability to estimate future bike rental demand.
+This project aims to predict the number of bikes rented based on weather conditions and time-related factors such as **temperature, humidity, season and time of day etc.** using the Bike Sharing Demand dataset. It uses data preprocessing, exploratory data analysis, and Linear Regression to build a predictive model. The model's performance is evaluated using standard regression metrics to assess its accuracy and ability to estimate future bike rental demand.
 
 ## 👥 Team Members
 
