@@ -1,27 +1,41 @@
 # Bike Rental Demand Prediction
 
-## 1. Project Overview
+## 🎯 Project Overview
 A machine learning project to predict bike rental demand
 based on weather conditions and time-related features.
 
-## 2. Team Members
+## 👥 Team Members
+
 | Name | Role | GitHub Username |
+| :--- | :--- | :--- |
+| Vantala Venu Prathyush | Execution Lead | [@venuprathyush](https://github.com/venuprathyush) |
+| Avishi Sood | Documentation Lead | [@2026eeb1330](https://github.com/2026eeb1330) |
+| Mirgane Aditya Tanaji | Video Lead | [@Adi-09-dev](https://github.com/Adi-09-dev) |
+| Pooja | PPT Lead | [@2026MCB1554](https://github.com/2026MCB1554) |
 
-| Vantala Venu Prathyush| Execution Lead | venuprathyush |
-| Avishi Sood | Documentation Lead | 2026eeb1330 |
-| Mirgane Aditya Tanaji | Video Lead | Adi-09-dev  |
-| Pooja | PPT Lead | 2026MCB1554 |
-
-## 3. Objectives
+## 🚀 Objectives
 - Analyse bike rental demand.
 - Study the effect of weather and time.
 - Develop a machine learning model to predict demand.
 
-## 4. Project Structure
+## 🪜 Project Structure
 (To be updated as files are added.)
 
-## 5. Technologies Used
-(To be updated after confirming the team's tools.)
+## 🛠️ Technologies Used
+### Programming Language
+- Python
+### Data Processing 
+- Numpy
+- Pandas
+### Machine Learning
+- Scikit-Learn
+### Data Visualisation
+- Matplotlib
+- Seaborn
+### Development Tools
+- Jupyter Notebook
+- Git & Git-Hub
+- VS Code
 
 ## 6. Installation Instructions
 (To be added after coordinating with the Execution Lead.)
