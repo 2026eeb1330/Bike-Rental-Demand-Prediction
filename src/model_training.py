@@ -1,4 +1,3 @@
-# MEMBER 3: LINEAR REGRESSION MODEL TRAINING AND EVALUATION
 
 import pandas as pd
 import numpy as np
@@ -14,11 +13,9 @@ from sklearn.metrics import (
 
 from data_preprocessing import load_data, preprocess_data
 
-# Read and prepare the training dataset
 df = load_data("data/train.csv")
 X, y, feature_columns = preprocess_data(df)
 
-# Split data: 80% training and 20% testing
 X_train, X_test, y_train, y_test = train_test_split(
     X, y,
     test_size=0.20,
@@ -28,12 +25,10 @@ X_train, X_test, y_train, y_test = train_test_split(
 print("Training examples:", len(X_train))
 print("Testing examples:", len(X_test))
 
-# Create and train Linear Regression model
 model = LinearRegression()
 model.fit(X_train, y_train)
 print("\nModel training completed!")
 
-# Make predictions on test data
 y_pred = model.predict(X_test)
 
 comparison = pd.DataFrame({
@@ -44,7 +39,7 @@ comparison = pd.DataFrame({
 print("\nActual vs Predicted values:")
 print(comparison.head(10))
 
-# Calculate regression metrics
+s
 mae = mean_absolute_error(y_test, y_pred)
 mse = mean_squared_error(y_test, y_pred)
 rmse = np.sqrt(mse)
@@ -56,7 +51,6 @@ print(f"MSE  : {mse:.3f}")
 print(f"RMSE : {rmse:.3f}")
 print(f"R2   : {r2:.3f}")
 
-# Plot actual versus predicted values
 plt.figure(figsize=(7, 6))
 plt.scatter(y_test, y_pred, alpha=0.5, edgecolor="black")
 low = min(float(y_test.min()), float(np.min(y_pred)))
