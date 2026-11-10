@@ -30,7 +30,7 @@ plt.title("Distribution of Bike Rental Count")
 plt.xlabel("Number of Bike Rentals")
 plt.ylabel("Frequency")
 plt.grid(alpha=0.25)
-plt.savefig("results/count_histogram.png")
+#plt.savefig("results/count_histogram.png")
 plt.show()
 
 
@@ -40,7 +40,7 @@ plt.title("Bike Rental Count vs Temperature")
 plt.xlabel("Temperature")
 plt.ylabel("Bike Rental Count")
 plt.grid(alpha=0.25)
-plt.savefig("results/temperature_vs_count.png")
+#plt.savefig("results/temperature_vs_count.png")
 plt.show()
 
 
@@ -51,7 +51,7 @@ plt.title("Average Bike Rentals by Hour")
 plt.xlabel("Hour of the Day")
 plt.ylabel("Average Bike Rentals")
 plt.grid(alpha=0.25)
-plt.savefig("results/average_rentals_by_hour.png")
+#plt.savefig("results/average_rentals_by_hour.png")
 plt.show()
 
 
@@ -61,5 +61,5 @@ plt.title("Bike Rental Count vs Humidity")
 plt.xlabel("Humidity")
 plt.ylabel("Bike Rental Count")
 plt.grid(alpha=0.25)
-plt.savefig("results/humidity_vs_count.png")
+#plt.savefig("results/humidity_vs_count.png")
 plt.show()
