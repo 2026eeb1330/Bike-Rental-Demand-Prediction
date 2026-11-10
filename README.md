@@ -71,7 +71,7 @@ Bike Rental Demand Prediction
 ## 9. Presentation and Video
 (Links to be added.)
 
-## 10. AI Usage Disclosure
+## 💡AI Usage Disclosure
 AI tools were used during the project for:
 - Documentation Improvement and README Understanding
 - Assistance in Code and Presentation
