@@ -39,7 +39,6 @@ comparison = pd.DataFrame({
 print("\nActual vs Predicted values:")
 print(comparison.head(10))
 
-s
 mae = mean_absolute_error(y_test, y_pred)
 mse = mean_squared_error(y_test, y_pred)
 rmse = np.sqrt(mse)
