@@ -1,5 +1,7 @@
 # Bike Rental Demand Prediction
-
+![AI101 Mini-Project](https://img.shields.io/badge/AI101-Mini--Project-blue)
+![Team 15](https://img.shields.io/badge/Team-15-orange)
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)
 ## 🎯 Project Overview
 
 This project aims to predict the number of bikes rented based on weather conditions and time-related factors such as **temperature, humidity, season and time of day etc.** using the Bike Sharing Demand dataset. It uses data preprocessing, exploratory data analysis, and Linear Regression to build a predictive model. The model's performance is evaluated using standard regression metrics to assess its accuracy and ability to estimate future bike rental demand.
@@ -17,9 +19,6 @@ This project aims to predict the number of bikes rented based on weather conditi
 - Analyse bike rental demand.
 - Study the effect of weather and time.
 - Develop a machine learning model to predict demand.
-
-## 🤖 Machine Learning Algorithm
-This project uses **Linear Regression Model**. 
 
 ## 📁 Project Structure
 
