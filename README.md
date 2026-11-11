@@ -144,7 +144,7 @@ python src/prediction.py
 
 ## 📽️ Presentation and Video
 
-- **Project Presentation:** [Click here to view the PPT](YOUR_PPT_LINK)
+- **Project Presentation:** [Click here to view the PPT](presentation/Bike_Rental_Demand_Prediction.pdf))
 - **Project Demonstration Video:** [Click here to watch the video](YOUR_VIDEO_LINK)
 
 ## 💡AI Usage Disclosure
