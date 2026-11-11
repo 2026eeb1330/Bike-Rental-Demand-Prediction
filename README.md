@@ -65,11 +65,20 @@ Bike Rental Demand Prediction
 ## 7. How to Run the Project
 (To be added after the model is ready.)
 
-## 8. Results and Visualisations
+## 📊 Results and Visualisations
+
+### Data Analysis
+<img width="817" height="626" alt="image" src="https://github.com/user-attachments/assets/6cb1a9ff-0059-43ee-bacf-5e2c2854d142" />
+
 ### Actual vs Predicted Bike Rentals
 <img width="808" height="723" alt="image" src="https://github.com/user-attachments/assets/08039bbf-1128-41c1-b965-d1b68c5bce58" />
+
 ### RMSE vs K-Value
 <img width="1182" height="722" alt="image" src="https://github.com/user-attachments/assets/c8011312-3057-4ff1-bdc7-5fcf8107168b" />
+
+### Accuracy Parameters
+<img width="868" height="708" alt="image" src="https://github.com/user-attachments/assets/3de92d8b-2321-48d3-8378-b215a67c9d2a" />
+
 
 
 
