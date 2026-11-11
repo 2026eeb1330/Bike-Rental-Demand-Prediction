@@ -145,7 +145,7 @@ python src/prediction.py
 ## 📽️ Presentation and Video
 
 - - **Project Presentation:** [Click here to view the PPT](presentation/Bike_Rental_Demand_Prediction.pdf)
-- **Project Demonstration Video:** [Click here to watch the video](YOUR_VIDEO_LINK)
+- - **Project Demonstration Video:** [Click here to watch the video](https://drive.google.com/file/d/1jgGWw_mZjpPleEnnEWVKYVaPnMQt1_vc/view?usp=drive_link)
 
 ## 💡AI Usage Disclosure
 AI tools were used during the project for:
