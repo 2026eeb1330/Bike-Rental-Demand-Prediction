@@ -100,18 +100,20 @@ python src/prediction.py
 ## 📊 Results and Visualisations
 
 ### Data Analysis
-<img width="817" height="626" alt="image" src="https://github.com/user-attachments/assets/6cb1a9ff-0059-43ee-bacf-5e2c2854d142" />
+
+![Data Analysis](images/data_analysis.png)
 
 ### Actual vs Predicted Bike Rentals
-<img width="808" height="723" alt="image" src="https://github.com/user-attachments/assets/08039bbf-1128-41c1-b965-d1b68c5bce58" />
+
+![Actual vs Predicted Bike Rentals](images/actual_vs_predicted.png)
 
 ### RMSE vs K-Value
-<img width="1182" height="722" alt="image" src="https://github.com/user-attachments/assets/c8011312-3057-4ff1-bdc7-5fcf8107168b" />
+
+![RMSE vs K-Value](images/rmse_vs_k.png)
 
 ### Accuracy Parameters
-<img width="868" height="708" alt="image" src="https://github.com/user-attachments/assets/3de92d8b-2321-48d3-8378-b215a67c9d2a" />
 
-
+![Accuracy Parameters](images/accuracy_parameters.png)
 
 
 ## 9. Presentation and Video
