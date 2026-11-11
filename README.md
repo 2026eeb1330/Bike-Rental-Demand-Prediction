@@ -59,11 +59,43 @@ Bike Rental Demand Prediction
 - Git & Git-Hub
 - VS Code
 
-## 6. Installation Instructions
-(To be added after coordinating with the Execution Lead.)
+## ⚙️ Project Setup
 
-## 7. How to Run the Project
-(To be added after the model is ready.)
+The project uses Python and the following libraries: Pandas, NumPy, Matplotlib, and Scikit-learn. Python 3.11 or later is recommended.
+
+```bash
+# Clone the repository
+git clone https://github.com/2026eeb1330/Bike-Rental-Demand-Prediction.git
+
+# Navigate to the project directory
+cd Bike-Rental-Demand-Prediction
+
+# Create a virtual environment
+python -m venv venv
+
+# Activate the virtual environment
+# Windows:
+venv\Scripts\activate
+
+# Linux/macOS:
+source venv/bin/activate
+
+# Install the required libraries
+pip install -r requirements.txt
+
+# Run data preprocessing
+python src/data_preprocessing.py
+
+# Perform exploratory data analysis
+python src/data_analysis.py
+
+# Train and evaluate the model
+python src/model_training.py
+
+# Generate bike rental demand predictions
+python src/prediction.py
+```
+
 
 ## 📊 Results and Visualisations
 
