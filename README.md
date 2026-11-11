@@ -21,6 +21,31 @@ This project aims to predict the number of bikes rented based on weather conditi
 ## 🤖 Machine Learning Algorithm
 This project uses **Linear Regression Model**. 
 
+## 📁 Project Structure
+
+```text
+Bike-Rental-Demand-Prediction/
+│
+├── data/
+│   ├── train.csv
+│   └── test.csv
+│
+├── src/
+│   ├── data_preprocessing.py
+│   ├── data_analysis.py
+│   ├── model_training.py
+│   └── prediction.py
+│
+├── images/
+│   ├── data_analysis.jpeg
+│   ├── actual_vs_predicted.jpeg
+│   ├── rmse_vs_k.jpeg
+│   └── accuracy_parameters.jpeg
+│
+├── requirements.txt
+└── README.md
+```
+
 ## 🪜 Project Workflow
 
 The complete workflow of the Bike Rental Demand Prediction system is shown below:
@@ -40,8 +65,9 @@ Model Training (Linear Regression)
 Model Evaluation & Visualizations
        |
        ↓
-Bike Rental Demand Prediction 
+Bike Rental Demand Prediction
 ```
+
 
 ## 🛠️ Technologies Used
 ### Programming Language
@@ -58,6 +84,7 @@ Bike Rental Demand Prediction
 - Jupyter Notebook
 - Git & Git-Hub
 - VS Code
+
 
 ## ⚙️ Project Setup
 
@@ -115,9 +142,10 @@ python src/prediction.py
 
 ![Accuracy Parameters](images/accuracy_parameters.jpeg)
 
+## 📽️ Presentation and Video
 
-## 9. Presentation and Video
-(Links to be added.)
+- **Project Presentation:** [Click here to view the PPT](YOUR_PPT_LINK)
+- **Project Demonstration Video:** [Click here to watch the video](YOUR_VIDEO_LINK)
 
 ## 💡AI Usage Disclosure
 AI tools were used during the project for:
