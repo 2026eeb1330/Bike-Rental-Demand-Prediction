@@ -21,6 +21,31 @@ This project aims to predict the number of bikes rented based on weather conditi
 ## 🤖 Machine Learning Algorithm
 This project uses **Linear Regression Model**. 
 
+## 📁 Project Structure
+
+```text
+Bike-Rental-Demand-Prediction/
+│
+├── data/
+│   ├── train.csv
+│   └── test.csv
+│
+├── src/
+│   ├── data_preprocessing.py
+│   ├── data_analysis.py
+│   ├── model_training.py
+│   └── prediction.py
+│
+├── images/
+│   ├── data_analysis.jpeg
+│   ├── actual_vs_predicted.jpeg
+│   ├── rmse_vs_k.jpeg
+│   └── accuracy_parameters.jpeg
+│
+├── requirements.txt
+└── README.md
+```
+
 ## 🪜 Project Workflow
 
 The complete workflow of the Bike Rental Demand Prediction system is shown below:
@@ -40,8 +65,9 @@ Model Training (Linear Regression)
 Model Evaluation & Visualizations
        |
        ↓
-Bike Rental Demand Prediction 
+Bike Rental Demand Prediction
 ```
+
 
 ## 🛠️ Technologies Used
 ### Programming Language
@@ -59,22 +85,67 @@ Bike Rental Demand Prediction
 - Git & Git-Hub
 - VS Code
 
-## 6. Installation Instructions
-(To be added after coordinating with the Execution Lead.)
 
-## 7. How to Run the Project
-(To be added after the model is ready.)
+## ⚙️ Project Setup
 
-## 8. Results and Visualisations
+The project uses Python and the following libraries: Pandas, NumPy, Matplotlib, and Scikit-learn. Python 3.11 or later is recommended.
+
+```bash
+# Clone the repository
+git clone https://github.com/2026eeb1330/Bike-Rental-Demand-Prediction.git
+
+# Navigate to the project directory
+cd Bike-Rental-Demand-Prediction
+
+# Create a virtual environment
+python -m venv venv
+
+# Activate the virtual environment
+# Windows:
+venv\Scripts\activate
+
+# Linux/macOS:
+source venv/bin/activate
+
+# Install the required libraries
+pip install -r requirements.txt
+
+# Run data preprocessing
+python src/data_preprocessing.py
+
+# Perform exploratory data analysis
+python src/data_analysis.py
+
+# Train and evaluate the model
+python src/model_training.py
+
+# Generate bike rental demand predictions
+python src/prediction.py
+```
+
+
+## 📊 Results and Visualisations
+
+### Data Analysis
+
+![Data Analysis](images/data_analysis.jpeg)
+
 ### Actual vs Predicted Bike Rentals
-<img width="808" height="723" alt="image" src="https://github.com/user-attachments/assets/08039bbf-1128-41c1-b965-d1b68c5bce58" />
+
+![Actual vs Predicted Bike Rentals](images/actual_vs_predicted.jpeg)
+
 ### RMSE vs K-Value
-<img width="1182" height="722" alt="image" src="https://github.com/user-attachments/assets/c8011312-3057-4ff1-bdc7-5fcf8107168b" />
 
+![RMSE vs K-Value](images/rmse_vs_k.jpeg)
 
+### Accuracy Parameters
 
-## 9. Presentation and Video
-(Links to be added.)
+![Accuracy Parameters](images/accuracy_parameters.jpeg)
+
+## 📽️ Presentation and Video
+
+- **Project Presentation:** [Click here to view the PPT](YOUR_PPT_LINK)
+- **Project Demonstration Video:** [Click here to watch the video](YOUR_VIDEO_LINK)
 
 ## 💡AI Usage Disclosure
 AI tools were used during the project for:
