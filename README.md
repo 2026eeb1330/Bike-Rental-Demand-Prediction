@@ -19,15 +19,16 @@ This project aims to predict the number of bikes rented based on weather conditi
 - Analyse bike rental demand.
 - Study the effect of weather and time.
 - Develop a machine learning model to predict demand.
-
+- 
 ## 📁 Project Structure
 
-```text
+```
 Bike-Rental-Demand-Prediction/
 │
 ├── data/
 │   ├── train.csv
-│   └── test.csv
+│   ├── test.csv
+│   └── sampleSubmission.csv
 │
 ├── src/
 │   ├── data_preprocessing.py
@@ -41,6 +42,19 @@ Bike-Rental-Demand-Prediction/
 │   ├── rmse_vs_k.jpeg
 │   └── accuracy_parameters.jpeg
 │
+├── results/
+│   ├── Actual vs Predicted Bike Rentals.jpeg
+│   ├── Actual vs Predicted.png
+│   ├── Average Bike Rentals by Hour.png
+│   ├── Bike Rental Count vs Humidity.png
+│   ├── Bike Rental Count vs Temperature.png
+│   ├── Distribution of Bike Rental Count.png
+│   └── RMSE vs K Value.png
+│
+├── presentation/
+│   └── Bike_Rental_Demand_Prediction.pdf
+│
+├── .gitignore
 ├── requirements.txt
 └── README.md
 ```
