@@ -68,23 +68,6 @@ Bike Rental Demand Prediction
 ```
 
 
-## 🛠️ Technologies Used
-### Programming Language
-- Python
-### Data Processing 
-- Numpy
-- Pandas
-### Machine Learning
-- Scikit-Learn
-### Data Visualisation
-- Matplotlib
-- Seaborn
-### Development Tools
-- Jupyter Notebook
-- Git & Git-Hub
-- VS Code
-
-
 ## ⚙️ Project Setup
 
 The project uses Python and the following libraries: Pandas, NumPy, Matplotlib, and Scikit-learn. Python 3.11 or later is recommended.
