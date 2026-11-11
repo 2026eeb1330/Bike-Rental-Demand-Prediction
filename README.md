@@ -101,19 +101,19 @@ python src/prediction.py
 
 ### Data Analysis
 
-![Data Analysis](images/data_analysis.png)
+![Data Analysis](images/data_analysis.jpeg)
 
 ### Actual vs Predicted Bike Rentals
 
-![Actual vs Predicted Bike Rentals](images/actual_vs_predicted.png)
+![Actual vs Predicted Bike Rentals](images/actual_vs_predicted.jpeg)
 
 ### RMSE vs K-Value
 
-![RMSE vs K-Value](images/rmse_vs_k.png)
+![RMSE vs K-Value](images/rmse_vs_k.jpeg)
 
 ### Accuracy Parameters
 
-![Accuracy Parameters](images/accuracy_parameters.png)
+![Accuracy Parameters](images/accuracy_parameters.jpeg)
 
 
 ## 9. Presentation and Video
