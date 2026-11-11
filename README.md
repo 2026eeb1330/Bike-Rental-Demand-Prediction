@@ -43,7 +43,7 @@ Bike-Rental-Demand-Prediction/
 │   └── accuracy_parameters.jpeg
 │
 ├── results/
-│   ├── Actual vs Predicted Bike Rentals.jpeg
+│   ├── Actual vs Predicted Bike Rentals.png
 │   ├── Actual vs Predicted.png
 │   ├── Average Bike Rentals by Hour.png
 │   ├── Bike Rental Count vs Humidity.png
